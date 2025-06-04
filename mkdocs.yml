@@ -14,8 +14,11 @@ theme:
     - content.code.annotate
     - content.tabs.link
 nav:
-  - 主页: index.md
+  - 这是我: index.md
   - 博客: blog.md
+  - 项目经历: project.md
+  - 好用工具: tools.md
+  - paper: paper.md
 markdown_extensions:
   - admonition
   - codehilite
@@ -23,4 +26,7 @@ markdown_extensions:
   - pymdownx.tabbed
   - pymdownx.emoji
   - pymdownx.details
+
+extra_css:
+  - assets/extra.css
 
