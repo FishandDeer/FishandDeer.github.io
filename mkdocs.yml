@@ -1,4 +1,26 @@
 site_name: Fish and Deer的个人网站
 theme:
   name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: 切换浅色模式
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.annotate
+    - content.tabs.link
+nav:
+  - 主页: index.md
+  - 博客: blog.md
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - pymdownx.details
 
