@@ -28,10 +28,10 @@
 ## **💻 技术栈**
 
 - 编程语言：Python、C++
-- 人工智能/深度学习：PyTorch、PaddlePaddle
-- 计算机视觉：OpenCV、YOLO、ultralytics、PaddleDetection
+- 人工智能/深度学习：PyTorch、PaddlePaddle、Keras
+- 计算机视觉：OpenCV、YOLO、ultralytics、PaddleDetection、mmDetection
 - 机器人操作系统：ROS1、ROS2（掌握常用开发流程与通信机制，学习中）
-- 嵌入式开发：树莓派(努力学习中)
+- 嵌入式开发：树莓派(努力学习中)、Jetson Nano
 - 版本管理与协作：Git、GitHub
 - 其他：Linux、Markdown、Docker
 
