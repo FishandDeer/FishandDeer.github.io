@@ -20,7 +20,10 @@ nav:
     - 本科期间: projects/BE_project.md
     - 硕士期间: projects/ME_project.md
     - 兴趣开发: projects/hobby.md
-  - 求索: study.md
+  - 求索:
+    - 介绍: study/about.md
+    - git: study/git.md
+    - docker: study/docker.md
   - 好用工具: tools.md
   - paper: paper.md
 markdown_extensions:
